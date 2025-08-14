@@ -1,5 +1,3 @@
-# resume2.0
-resume once again
 <!DOCTYPE html>
 <html lang="en">
 <head>
